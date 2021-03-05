@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Padding -->
+    <dimen name="default_padding">8dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="normal_margin">8dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+
+    <!-- Animation -->
+    <dimen name="progress_bar_height">300dp</dimen>
+    <dimen name="progress_bar_width">300dp</dimen>
+
+</resources>

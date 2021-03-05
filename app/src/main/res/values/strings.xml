@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Political Preparedness</string>
+
+    <!-- General -->
+    <string name="progress_bar_icon_content_description">Progress bar icon</string>
+
+    <!-- Launch view -->
+    <string name="upcoming_elections_button_text">Upcoming Elections</string>
+    <string name="find_my_representatives_button_text">Find My Representatives</string>
+    <string name="ballot_box_content_description">An image of a ballot box</string>
+
+    <!-- Elections view -->
+    <string name="upcoming_elections_header_text">Upcoming Elections</string>
+    <string name="saved_elections_header_text">Saved Elections</string>
+    <string name="error_upcoming_elections">Unexpected error retrieving upcoming elections</string>
+
+    <!-- Voter information -->
+    <string name="election_information_header_text">Election Information</string>
+    <string name="correspondence_address_header_text">Correspondence Address</string>
+    <string name="voting_locations_text">Voting Locations</string>
+    <string name="ballot_information_text">Ballot Information</string>
+    <string name="follow_election_button_text">Follow Election</string>
+    <string name="unfollow_election_button_text">Unfollow Election</string>
+    <string name="error_message_title">Error</string>
+    <string name="error_message_invalid_election_request">The Election you have selected does not have the valid information required to retrieve details of the election. Please try another election.</string>
+
+    <!-- Representatives -->
+    <string name="representative_search_header_text">Representative Search</string>
+    <string name="address_line_1_text">Address Line 1</string>
+    <string name="address_line_2_text">Address Line 2</string>
+    <string name="city_text">City</string>
+    <string name="zip_text">Zip</string>
+    <string name="my_representatives_header_text">My Representatives</string>
+    <string name="find_my_representatives_text">Find My Representatives</string>
+    <string name="use_my_location_text">Use My Location</string>
+    <string name="representative_photo_content_description">The representative\'s photo</string>
+    <string name="website_icon_content_description">Website icon.</string>
+    <string name="facebook_icon_content_description">Facebook icon</string>
+    <string name="twitter_icon_content_description">Twitter icon</string>
+    <string name="no_representatives_found_text">No Representatives Found</string>
+    <string name="error_location_services_required">Location Services are required to "Use My Location"</string>
+    <string name="error_representatives">Unexpected error retrieving representatives</string>
+
+</resources>
